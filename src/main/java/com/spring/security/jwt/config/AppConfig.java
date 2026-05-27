@@ -1,5 +1,5 @@
 package com.spring.security.jwt.config;
 
-public class AppConfig {
+public class AppConfig{
 
 }
